@@ -509,3 +509,12 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-12-04 17:57:27.837
 !MESSAGE No repository found at http://download.eclipse.org/technology/m2e/releases.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-12-04 17:59:31.005
+!MESSAGE No repository found at http://dl.bintray.com/testng-team/testng-p2-release/.
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-12-04 18:11:14.843
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.ui.navigator 2 0 2021-12-04 18:11:14.844
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering

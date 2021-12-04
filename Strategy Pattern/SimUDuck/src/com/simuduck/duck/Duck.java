@@ -14,5 +14,9 @@ class Duck {
 		System.out.println("Shows Duck");
 	}
 	
+	public void fly(){
+		System.out.println("Duck fly");
+	}
+	
 	//Other duck methods
 }

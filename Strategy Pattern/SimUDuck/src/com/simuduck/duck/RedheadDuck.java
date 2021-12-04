@@ -7,3 +7,4 @@ public class RedheadDuck extends Duck{
 		System.out.println("Show RedHead Duck");
 	}
 }
+ 
