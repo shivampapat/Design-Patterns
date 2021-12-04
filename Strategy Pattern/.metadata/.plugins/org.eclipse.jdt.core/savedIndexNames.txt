@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+S:\SHIVAM\Design Patterns\Strategy Pattern\.metadata\.plugins\org.eclipse.jdt.core
+2770815458.index
